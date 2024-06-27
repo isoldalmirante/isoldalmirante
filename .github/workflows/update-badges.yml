@@ -23,6 +23,6 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CREDLY_USER: isolda-almirante  # Adiciona o nome de usuário do Credly como parâmetro
-          BADGE_SIZE: 80
+          BADGE_SIZE: 100
           NUMBER_LAST_BADGES: 30
 
