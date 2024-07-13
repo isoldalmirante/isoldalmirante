@@ -11,6 +11,6 @@
 [![Verified International Academic Qualifications](https://images.credly.com/size/100x100/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png)](http://www.credly.com/badges/da760fe8-b5d8-4605-b380-460423f64384 "Verified International Academic Qualifications")
 [![Python for Data Science and AI](https://images.credly.com/size/100x100/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png)](http://www.credly.com/badges/4b18ce03-cb3f-4292-8b10-82e53a761d15 "Python for Data Science and AI")
 [![Data Analytics Essentials](https://images.credly.com/size/100x100/images/42f7ca3c-6eb3-47d2-a7f3-3b1093ea1b35/image.png)](http://www.credly.com/badges/bdafc4e5-babc-41d8-9ab9-a2c5fd776041 "Data Analytics Essentials")
-[![Data Visualization & Dashboard Essentials](https://images.credly.com/size/100x100/images/8d705da8-a51e-4ab5-94bf-b743981be04f/image.png)](http://www.credly.com/badges/3f699f52-6a6c-4a4c-becc-30fd36d5e351 "Data Visualization & Dashboard Essentials")
+[![Data Visualization & Dashboard Essentials](https://images.credly.com/size/100x100/images/16835b69-6ec9-49f2-8eed-60ca27de3466/image.png)](http://www.credly.com/badges/3f699f52-6a6c-4a4c-becc-30fd36d5e351 "Data Visualization & Dashboard Essentials")
 [![Python Project for Data Science](https://images.credly.com/size/100x100/images/4dd14b9d-2750-43bc-a5f6-27970c0de0fa/image.png)](http://www.credly.com/badges/976e73dd-1a71-4d29-b743-f2ee5c4e3848 "Python Project for Data Science")
 <!--END_SECTION:badges-->
